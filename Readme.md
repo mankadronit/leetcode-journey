@@ -34,6 +34,6 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 | Two Sum      | Arrays        | Easy       | [Solution](./arrays/easy/1-two-sum.js) | JavaScript        |
 | Contains Duplicates | Arrays | Easy  | [Solution](./arrays/easy/217-contains-duplicates.js) | JavaScript |
 | Valid Anagrams | Strings, Arrays | Easy | [Solution](./arrays/easy/242-valid-anagrams.js) | JavaScript |
-| Group Anagrams | Strings, Arrays, HashMap | Medium | [Solution](./arrays"/medium/49-group-anagrams.js) | JavaScript |
+| Group Anagrams | Strings, Arrays, HashMap | Medium | [Solution](./arrays/medium/49-group-anagrams.js) | JavaScript |
 
 ---
