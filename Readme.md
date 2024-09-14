@@ -20,9 +20,9 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 
 ## 🏆 **Progress Overview**
 
-- **Total Problems Solved**: `4`
+- **Total Problems Solved**: `5`
 - **Easy**: `3`
-- **Medium**: `1`
+- **Medium**: `2`
 - **Hard**: `N/A`
 
 ---
@@ -35,5 +35,6 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 | Contains Duplicates | Arrays | Easy  | [Solution](./arrays/easy/217-contains-duplicates.js) | JavaScript |
 | Valid Anagrams | Strings, Arrays | Easy | [Solution](./arrays/easy/242-valid-anagrams.js) | JavaScript |
 | Group Anagrams | Strings, Arrays, HashMap | Medium | [Solution](./arrays/medium/49-group-anagrams.js) | JavaScript |
+| Top-K Frequent Elements | Arrays, HashMap | Medium | [Solution](./arrays/medium/347-topk-frequent.js) | JavaScript |
 
 ---
