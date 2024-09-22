@@ -20,9 +20,9 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 
 ## 🏆 **Progress Overview**
 
-- **Total Problems Solved**: `6`
+- **Total Problems Solved**: `7`
 - **Easy**: `3`
-- **Medium**: `3`
+- **Medium**: `4`
 - **Hard**: `N/A`
 
 ---
@@ -37,5 +37,7 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 | Group Anagrams | Strings, Arrays, HashMap | Medium | [Solution](./arrays/medium/49-group-anagrams.js) | JavaScript |
 | Top-K Frequent Elements | Arrays, HashMap | Medium | [Solution](./arrays/medium/347-topk-frequent.js) | JavaScript |
 | Encode and Decode Strings | Strings | Medium | [Solution](./strings/medium/271-encode-decode-strings.js) | JavaScript |
+| Product Of Array Except Self | Arrays | Medium | [Solution](./arrays/medium/238-product-of-array-except-self.js) | JavaScript |
+
 
 ---
