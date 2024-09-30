@@ -20,9 +20,9 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 
 ## 🏆 **Progress Overview**
 
--   **Total Problems Solved**: `8`
+-   **Total Problems Solved**: `9`
 -   **Easy**: `3`
--   **Medium**: `5`
+-   **Medium**: `6`
 -   **Hard**: `N/A`
 
 ---
@@ -39,5 +39,6 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 | Encode and Decode Strings    | Strings                  | Medium     | [Solution](./strings/medium/271-encode-decode-strings.js)       | JavaScript    |
 | Product Of Array Except Self | Arrays                   | Medium     | [Solution](./arrays/medium/238-product-of-array-except-self.js) | JavaScript    |
 | Valid Sudoku                 | Arrays                   | Medium     | [Solution](./arrays/medium/36-valid-sudoku.js)                  | JavaScript    |
+| Longest Consecutive Sequence | Arrays                   | Medium     | [Solution](./arrays/medium/128-longest-consecutive-sequence.js) | JavaScript    |
 
 ---
