@@ -20,9 +20,9 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 
 ## 🏆 **Progress Overview**
 
--   **Total Problems Solved**: `9`
--   **Easy**: `3`
--   **Medium**: `6`
+-   **Total Problems Solved**: `11`
+-   **Easy**: `4`
+-   **Medium**: `7`
 -   **Hard**: `N/A`
 
 ---
