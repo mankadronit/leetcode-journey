@@ -40,9 +40,7 @@ I will be following [Neetcode.io's](https://neetcode.io/roadmap) Roadmap.
 | Product Of Array Except Self | Arrays                   | Medium     | [Solution](./arrays/medium/238-product-of-array-except-self.js) | JavaScript    |
 | Valid Sudoku                 | Arrays                   | Medium     | [Solution](./arrays/medium/36-valid-sudoku.js)                  | JavaScript    |
 | Longest Consecutive Sequence | Arrays                   | Medium     | [Solution](./arrays/medium/128-longest-consecutive-sequence.js) | JavaScript    |
-| JavaScript                   |
-| Valid Palindromes            | Two - Pointers           | Easy       | [Solution](./two-pointers/easy/125-valid-palindrome.js)         | JavaScript    |
-| JavaScript                   |
-| Two Sum II                   | Arrays                   | Medium     | [Solution](./two-pointers/medium/167-TwoSumII.js)               | JavaScript    |
+| Valid Palindromes            | Two-Pointers             | Easy       | [Solution](./two-pointers/easy/125-valid-palindrome.js)         | JavaScript    |
+| Two Sum II                   | Two-Pointers             | Medium     | [Solution](./two-pointers/medium/167-TwoSumII.js)               | JavaScript    |
 
 ---
